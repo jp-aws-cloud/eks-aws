@@ -24,7 +24,7 @@ Before proceeding, ensure that you have the following installed:
 
 AWS CLI: Install and configure the AWS CLI by following the official documentation.
 kubectl: [Install kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/) to interact with the Kubernetes cluster.
-eksctl: Install eksctl, a command-line tool for creating and managing EKS clusters.
+eksctl: [Install eksctl](https://eksctl.io/installation/), a command-line tool for creating and managing EKS clusters.
 
 ## 1. Creating an EKS Cluster
 
